@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "iuTSOJV28W+wzKQnmQp8PezCHlLqKzQ3rCiA5poiLokmQkDjiMaoYmKsLyxZqGTv1tZmHDH0pHQzd8OxBJoQGA==",
+  "dgSpecHash": "pLB/utO+oJ64J+MoR4dpvdLIguKC99cA6Ny4ZdDIGe/UwdC1fvWaKxqo7d9/PE5KenXCyDv8Vb1dIvgYPpR2Ow==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Desktop\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
